@@ -1,4 +1,7 @@
-## Hi there 👋
+##  👋
+<p align="centro">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" altura="230"/>
+</p>
 <h1 align="center">LIL TEN</h1>
 <!--
 **Lil-Ten/Lil-Ten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
