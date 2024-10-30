@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" altura="230"/>
 </p>
 <h1 align="center">LIL TEN</h1>
-|![](https://img.shields.io/youtube/channel/subscribers/UCnDKa6l84wewsTkxsuze84A?style=social)|![]
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCnDKa6l84wewsTkxsuze84A?style=social">
 <!--
 **Lil-Ten/Lil-Ten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
