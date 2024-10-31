@@ -1,6 +1,6 @@
 ##  👋
 <p align="centro">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" altura="230"/>
+  <img src="https://github.com/Lil-Ten/img/blob/main/liltenportada.png" altura="230"/>
 </p>
 <h1 align="center">LIL TEN</h1>
 <a href="https://www.youtube.com/@lilten8710">
