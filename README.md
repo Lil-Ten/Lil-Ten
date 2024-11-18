@@ -1,4 +1,4 @@
-##  👋
+##  👋 <h1 align="center">LIL TEN</h1>
 <p align="centro">
   <img src="https://github.com/Lil-Ten/img/blob/main/liltenportada.png" altura="230"/>
 </p>
