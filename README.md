@@ -27,12 +27,12 @@
 
 ### My Skills & Technologies
 - **Languages**: JavaScript, Python, TypeScript, HTML/CSS, SQL
-- **Frontend**: React, Redux, Next.js, Vue.js
-- **Backend**: Node.js, Express, GraphQL, Django
-- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
-- **DevOps**: Docker, Kubernetes, GitHub Actions, Jenkins
-- **Cloud**: AWS, Heroku, Firebase, DigitalOcean
-- **Tools**: Git, Webpack, Nginx, ESLint, Jest
+- **Frontend**: React.js
+- **Backend**:  Django, Flask, Python, Java, PHP
+- **Databases**: PostgreSQL, MySQL, Oracle
+- **DevOps**: Docker,  GitHub
+- **Cloud**: AWS, Firebase,
+- **Tools**: Git, Linux
 
 ---
 
